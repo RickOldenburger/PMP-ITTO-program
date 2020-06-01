@@ -1,5 +1,5 @@
 # PMP-ITTO-program
-An Execel spreadsheet containing all the ITTO inputs and outputs for the PMP
+An Excel spreadsheet containing all the ITTO inputs and outputs for the PMP
 
 While studying for the PMP I found that it was really helpful to have a spreadsheet that contained all the ITTOs for every process. This provided great assistance while studying.
 
